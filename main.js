@@ -1,3 +1,3 @@
-const myfunction = () => {
-    console.log("mohamed");
+const myFunction = () => {
+    alert("mohamed");
 }
