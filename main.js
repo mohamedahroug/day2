@@ -1,7 +1,9 @@
 const myFunction = () => {
-    console.log("mohamed");
+    alert("mohamed");
 }
 
 const hello = () => {
     console.log("hello ziad");
+    alert("hello ziad");
+    
 }
